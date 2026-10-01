@@ -9,5 +9,5 @@
       "name": "Jane"
     }
   ],
-  "nextPage": null
+  "nextPage": "next-page.json"
 }

@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Jane"
+    }
+  ],
+  "nextPage": "https://raw.githubusercontent.com/vikram-bs969/temp/refs/heads/main/next-page.json"
+}
